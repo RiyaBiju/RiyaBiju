@@ -59,6 +59,10 @@ Developed an Android application focused on language learning with quizzes, chal
 
 Worked with SQL and visualization tools to uncover customer insights and support data-driven decision making.
 
+### AI PPE detection system
+
+Using Yolo and openCV models
+
 ## What I'm Learning
 
 * Advanced SQL
